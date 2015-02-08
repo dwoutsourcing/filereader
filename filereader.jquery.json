@@ -18,9 +18,9 @@
 	},
 	"description": "filereader is a set of jQuery extensions to act as HTML5 FileReader API wrappers.",
 	"keywords": [
-		"HTML5 API",
+		"HTML5",
 		"FileReader",
-		"Local files"
+		"Localfiles"
 	],
 	"maintainers": [
 		{
